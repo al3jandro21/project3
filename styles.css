@@ -16,5 +16,8 @@ h1 {
     font-family: "Carter One", cursive;
     text-transform: uppercase;
     text-align: center;
-    color: 
+    color: #FBAE17;
+    font-size: 60px;
+    margin: 0;
+    line-height: 1;
 }
