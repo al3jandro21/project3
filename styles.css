@@ -1,4 +1,4 @@
-*{
+* {
     box-sizing: border-box;
     background-color: rgb(170,225,255);
     width: 1125px;
@@ -7,4 +7,14 @@
     background-color: rgb(0,130,201);
     width: 1095px;
     padding: 15px;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #aae1ff;
+}
+h1 {
+    font-family: "Carter One", cursive;
+    text-transform: uppercase;
+    text-align: center;
+    color: 
 }
